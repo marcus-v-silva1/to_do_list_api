@@ -35,7 +35,7 @@ A aplicação estará disponível em http://localhost:3000.
 
 ## Endpoints da API
 GET /v1/todos
--Retorna uma lista de todas as tarefas.
+- Retorna uma lista de todas as tarefas.
 
 GET /v1/todos/:id
 - Retorna os detalhes de uma tarefa específica.
